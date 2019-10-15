@@ -1,2 +1,2 @@
 # Blender-Terrain-Gen
-Blender Terrain Generation using Perlin Noise
+Blender Terrain Generation (and Visualisation) using Perlin Noise
